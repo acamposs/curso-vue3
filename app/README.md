@@ -1,8 +1,6 @@
 # curso-vue3
 
-# curso-vue3
-
-Este repositório contém o código-fonte de um curso de Vue 3. O projeto desenvolvido durante o curso é uma aplicação de lista de tarefas (To-Do Task).
+Este repositório contém o código-fonte do [Curso gratuito Vue.js 3](https://bit.ly/3QbEVRy) ministrado pelo [Tiago Matos](https://github.com/tiagomatosweb). O projeto desenvolvido durante o curso é uma aplicação de lista de tarefas (To-Do Task).
 
 ## Ferramentas Utilizadas
 
