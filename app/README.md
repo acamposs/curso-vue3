@@ -50,3 +50,19 @@ Este repositório contém o código-fonte do [Curso gratuito Vue.js 3](https://b
     ```
 
 Agora você pode acessar o projeto no seu navegador através do endereço `http://localhost:8080`.
+
+## Como Rodar o Backend
+
+1. Instale o JSON Server globalmente (caso ainda não tenha):
+    ```bash
+    npm install -g json-server
+    ```
+
+2. Navegue até o diretório onde está o arquivo `database.json`.
+
+3. Inicie o JSON Server:
+    ```bash
+    json-server --watch database.json
+    ```
+
+Agora você pode acessar o backend no endereço `http://localhost:3000`.
