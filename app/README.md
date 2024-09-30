@@ -5,11 +5,12 @@ Este repositório contém o código-fonte do [Curso gratuito Vue.js 3](https://b
 ## Ferramentas Utilizadas
 
 - Vue 3
-- Vue CLI
 - Tailwind CSS
 - Axios
 - Vue Router
-- Vuex
+- HTML
+- CSS
+- JavaScript
 
 ## Etapas do Desenvolvimento
 
