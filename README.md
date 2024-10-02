@@ -1,5 +1,5 @@
 # Curso de Vue 3
-Esse repositório é dedicado para o [Curso gratuito Vue.js 3](https://bit.ly/3QbEVRy) ministrado pelo [Tiago Matos](https://github.com/tiagomatosweb) O curso conta com um projeto de desenvolvimento de uma aplicação de lista de tarefas (To-Do Task).
+Esse repositório é dedicado para o [Curso gratuito Vue.js 3](https://bit.ly/3QbEVRy) ministrado pelo [Tiago Matos].(https://github.com/tiagomatosweb) O curso conta com um projeto de desenvolvimento de uma aplicação de lista de tarefas (To-Do Task).
 
 ## Ferramentas Utilizadas
 
